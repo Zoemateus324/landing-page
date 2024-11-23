@@ -17,23 +17,3 @@ body{
     padding-top:60px;
     border-bottom:1px solid #33A8DB80;
 }
-.banner .banner-content{
-    color:white;
-    width:600px;
-    margin:auto;
-    text-align:center;
-}
-div{
-    display:block;
-
-}
-main{
-    display:block;
-}
-
-footer{
-    padding:60px 0;
-    text-align:center;
-    background-image:linear-gradient(rgba(50,168,219,.0),rgba(50,168,219,.2));
-    border-top: 1px solid #33A8DB80;
-}

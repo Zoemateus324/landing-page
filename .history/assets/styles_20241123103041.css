@@ -30,10 +30,3 @@ div{
 main{
     display:block;
 }
-
-footer{
-    padding:60px 0;
-    text-align:center;
-    background-image:linear-gradient(rgba(50,168,219,.0),rgba(50,168,219,.2));
-    border-top: 1px solid #33A8DB80;
-}
