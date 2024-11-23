@@ -35,16 +35,6 @@ body{
     background clip:text;
     -webkit-background-clip:text;
 }
-h1{
-    display:block;
-    font-size:2em;
-    margin-block-start:0.67em;
-    margin-block-end:0.67em;
-    margin-inline-start:0px;
-    margin-inline-end:0px;
-    font-weight:bold;
-    unicode-bidi:isolate;
-}
 .banner .banner-content{
     color:white;
     width:600px;
