@@ -129,8 +129,22 @@ div{
 }
 main{
     display:block;
+    unicode-bidi:isolate;
+}
+#course-content {
+    width: 800px;
+    text-align: center;
+}
+section {
+    margin: 100px auto;
 }
 
+
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
 footer{
     padding:60px 0;
     text-align:center;
